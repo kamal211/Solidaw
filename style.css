@@ -1,0 +1,20 @@
+
+
+@media print {
+*{
+  font-size: 13px;
+
+}
+ header, article, footer{
+  display: none;
+}
+main{
+  margin-top: 25vh;
+  border: 10px;
+}
+ #tranche2{
+     display: none;
+ }
+
+}
+
